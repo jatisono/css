@@ -7,27 +7,6 @@ Primary style
   box-sizing: border-box;
 }
 
-html {
-  font-size: 62.5%;
-}
-
-body {
-  font-size: 1.6rem;
-  font-family: "Open Sans", sans-serif;
-  color: #3e454c;
-  background-color: #ffffff;
-}
-body::after {
-  clear: both;
-  content: "";
-  display: table;
-}
-
-a {
-  color: #1784c7;
-  text-decoration: none;
-}
-
 input {
   font-family: "Open Sans", sans-serif;
   font-size: 1.6rem;
